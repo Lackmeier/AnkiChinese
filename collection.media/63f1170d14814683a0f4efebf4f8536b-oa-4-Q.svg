@@ -1,0 +1,30 @@
+<svg height="900" width="658" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  <g class="qshape" id="63f1170d14814683a0f4efebf4f8536b-oa-4">
+   <rect class="qshape" fill="#FF7E7E" height="19" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="108" x="286" y="735">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+   <rect class="qshape" fill="#FF7E7E" height="19" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="43" x="286" y="751">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+   <rect class="qshape" fill="#FF7E7E" height="90" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="80" x="303" y="808">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+   <path class="qshape" d="m199,668l0,23c0,0 18,2 18,2c0,0 0,122 0,122c0,0 3,11 3,11c0,0 60,0 60,0c0,0 6,-35 6,-35c0,0 -23,-46 -23,-46c0,0 0,-43 0,-43c0,0 27,-22 27,-22c0,0 -48,-16 -48,-16c0,0 -43,4 -43,4z" fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </path>
+   <rect class="qshape" fill="#FF7E7E" height="23" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="71" x="202" y="822">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+  </g>
+  
+ </g>
+</svg>

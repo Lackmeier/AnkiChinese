@@ -1,0 +1,122 @@
+<svg height="1079" width="604" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-1">
+   <rect fill="#FFEBA2" height="19" stroke="#2D2D2D" width="67" x="205" y="109">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="13" stroke="#2D2D2D" width="30" x="303" y="92">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="14" stroke="#2D2D2D" width="27" x="304" y="128">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="19" stroke="#2D2D2D" width="118" x="216" y="164">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-2">
+   <rect fill="#FFEBA2" height="46" stroke="#2D2D2D" width="69" x="201" y="196">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="21" stroke="#2D2D2D" width="121" x="215" y="255">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-3">
+   <rect fill="#FFEBA2" height="18" stroke="#2D2D2D" width="113" x="158" y="303">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="13" stroke="#2D2D2D" width="27" x="305" y="286">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" width="27" x="304" y="321">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="23" stroke="#2D2D2D" width="154" x="199" y="348">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-4">
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" width="47" x="280" y="418">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="27" stroke="#2D2D2D" width="91" x="125" y="434">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="32" stroke="#2D2D2D" width="105" x="9" y="451">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="30" stroke="#2D2D2D" width="97" x="227" y="453">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-5">
+   <rect fill="#FFEBA2" height="48" stroke="#2D2D2D" width="96" x="175" y="561">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" width="50" x="305" y="557">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" width="40" x="305" y="595">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" width="139" x="207" y="621">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-6">
+   <rect fill="#FFEBA2" height="33" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="95" x="174" y="665">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="28" x="306" y="654">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="26" x="306" y="691">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="112" x="219" y="719">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-7">
+   <rect fill="#FFEBA2" height="34" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="94" x="174" y="761">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="21" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="116" x="219" y="817">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-8">
+   <rect fill="#FFEBA2" height="17" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="45" x="225" y="870">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="30" x="305" y="875">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="21" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="125" x="213" y="918">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="4d12370f91d148c08892dd3e262b594c-oa-9">
+   <g>
+    <rect fill="#FFEBA2" height="21" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="76" x="196" y="967">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+    </rect>
+    <rect fill="#FFEBA2" height="13" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="28" x="303" y="950">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+    </rect>
+    <rect fill="#FFEBA2" height="12" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="27" x="306" y="989">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" style="vector-effect: non-scaling-stroke; " to="1"/>
+    </rect>
+   </g>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="65" x="244" y="1022">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+ </g>
+</svg>

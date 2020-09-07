@@ -1,0 +1,35 @@
+<svg height="900" width="658" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  <g class="qshape" id="63f1170d14814683a0f4efebf4f8536b-oa-5">
+   <g class="qshape">
+    <rect class="qshape" fill="#FF7E7E" height="22" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="73" x="137" y="689">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="70" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="77" x="39" y="703">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="24" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="37" x="131" y="749">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="19" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="64" x="25" y="615">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="116" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="63" x="26" y="495">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+   </g>
+   <rect class="qshape" fill="#FF7E7E" height="19" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="68" x="105" y="321">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+  </g>
+ </g>
+</svg>

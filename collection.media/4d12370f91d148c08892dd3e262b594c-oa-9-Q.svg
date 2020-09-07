@@ -1,0 +1,33 @@
+<svg height="1079" width="604" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <g class="qshape" id="4d12370f91d148c08892dd3e262b594c-oa-9">
+   <g class="qshape">
+    <rect class="qshape" fill="#FF7E7E" height="21" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="76" x="196" y="967">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="13" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="28" x="303" y="950">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+    </rect>
+    <rect class="qshape" fill="#FF7E7E" height="12" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="27" x="306" y="989">
+     <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" style="vector-effect: non-scaling-stroke; " to="1"/>
+    </rect>
+   </g>
+   <rect class="qshape" fill="#FF7E7E" height="16" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="65" x="244" y="1022">
+    <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#FF7E7E" to="1"/>
+   </rect>
+  </g>
+ </g>
+</svg>

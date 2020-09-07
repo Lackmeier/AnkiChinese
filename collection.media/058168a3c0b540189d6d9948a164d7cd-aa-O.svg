@@ -1,0 +1,20 @@
+<svg height="1304" width="1300" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <line fill="#FFEBA2" id="058168a3c0b540189d6d9948a164d7cd-aa-1" stroke="#2D2D2D" stroke-width="3" x1="858.33331" x2="1011.11105" y1="648.77775" y2="765.44441"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="47" id="058168a3c0b540189d6d9948a164d7cd-aa-2" stroke-width="0" text-anchor="middle" x="994.4444" xml:space="preserve" y="815.4444">Sehnervenpapille (nasal)</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="47" id="058168a3c0b540189d6d9948a164d7cd-aa-3" stroke-width="0" text-anchor="middle" x="905.55552" xml:space="preserve" y="445.99999">A./V. centralis retinae</text>
+  <line fill="#FFEBA2" id="058168a3c0b540189d6d9948a164d7cd-aa-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="902.77774" x2="927.77774" y1="604.3333" y2="476.55553"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="47" id="058168a3c0b540189d6d9948a164d7cd-aa-5" stroke-width="0" text-anchor="middle" x="513.88889" xml:space="preserve" y="276.55553">Fovea centralis (temporal)</text>
+  <line fill="#FFEBA2" id="058168a3c0b540189d6d9948a164d7cd-aa-6" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="447.2222" x2="513.88887" y1="693.22219" y2="318.2222"/>
+  <g id="058168a3c0b540189d6d9948a164d7cd-aa-7">
+   <rect fill="#FFEBA2" height="69.44444" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="561.11109" x="230.55555" y="226.55554"/>
+   <rect fill="#FFEBA2" height="72.22222" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="474.99998" x="669.44442" y="395.99998"/>
+   <rect fill="#FFEBA2" height="75" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="530.55553" x="727.77775" y="765.44441"/>
+  </g>
+ </g>
+</svg>

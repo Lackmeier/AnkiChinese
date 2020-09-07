@@ -1,0 +1,64 @@
+<svg height="1000.0000000000001" width="1153" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="77b5503cce174396bd849c5207e6dc6e-ao-1">
+   <rect fill="#FFEBA2" height="58" stroke="#2D2D2D" width="148" x="231" y="180">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="22" width="54" x="552" y="124">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" style="vector-effect: non-scaling-stroke; " to="1"/>
+   </rect>
+  </g>
+  <g id="77b5503cce174396bd849c5207e6dc6e-ao-2">
+   <rect fill="#FFEBA2" height="49" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="186" x="36" y="323">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="49" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="153" x="383" y="323">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="77b5503cce174396bd849c5207e6dc6e-ao-3">
+   <rect fill="#FFEBA2" height="60" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="278" x="91" y="474">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="52" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="199" x="559" y="472">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+  </g>
+  <g id="77b5503cce174396bd849c5207e6dc6e-ao-4">
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="98" x="847" y="774">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="80" x="689" y="877">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="18" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="83" x="1023" y="879">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="16" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="97" x="849" y="975">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="20" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="rotate(29.4454 872.5 851)" width="105" x="820" y="841">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <rect fill="#FFEBA2" height="19" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="rotate(-29.5115 872 924.5)" width="102" x="821" y="915">
+    <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+   </rect>
+   <g>
+    <rect fill="#FFEBA2" height="63" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="165" x="402" y="608">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+    </rect>
+    <rect fill="#FFEBA2" height="50" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="153" x="666" y="713">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+    </rect>
+    <rect fill="#FFEBA2" height="47" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="175" x="974" y="712">
+     <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+    </rect>
+   </g>
+  </g>
+ </g>
+</svg>
